@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f3ef1d;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.crypto-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  background-image: url(../crypto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.coin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #111111;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  width: 360px;
+  height: 265px;
+  padding: 5px;
+}
+
+.coin .icon {
+  width: 64px;
+  height: 64px;
+}
+
+.search-txt {
+  width: 700px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  font-size: medium;
+  text-align: center;
+  border: 1px solid orangered;
+}
