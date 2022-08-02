@@ -1,4 +1,4 @@
-Click the link to visit website:[https://endearing-sunshine-91e68b.netlify.app/](click here)
+Click the link to visit website:[https://endearing-sunshine-91e68b.netlify.app/]
 
 # Getting Started with Create React App
 
